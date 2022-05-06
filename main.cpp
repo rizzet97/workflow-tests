@@ -4,6 +4,6 @@
 
 int main() {
   std::cout << "Hello world!\n";
-  Flower a("Rose", Colors::Red, 7);
+  // Flower a("Rose", Colors::Red, 7);
   return 0;
 }
